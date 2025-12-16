@@ -1,0 +1,87 @@
+l*m+Z+m,Z,^A^@d^Ad^Nl-m.Z/^A^@d^Ad^Ol-m0Z0m1Z1^A^@d^Ad^Pl2m3Z3^A^@d^Qg^AZ4^B^@e^Bjj^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@e6�^A^@^@^@^@^@^@Z7^B^@G^@d^R�^@d^Qe^T�^C^@^@^@^@^@^@Z8y^B)^Sz(Base Command class, and related routines�^@^@^@^@N)^A�^FValues)^E�^CAny�^HCallable�^DList�^HOptional�^ETuple)^A�  traceback)^A�
+cmdoptions)^A�^SCommandContextMixIn)^B�^RConfigOptionParser�^]UpdatingDefaultsHelpFormatter)^D�^EERROR�^XPREVIOUS_BUILD_DIR_ERROR�
+UNKNOWN_ERROR�^TVIRTUALENV_NOT_FOUND)^G�
+BadCommand�^LCommandError�^RDiagnosticPipError�^QInstallationError�^VNetworkConnectionError�^UPreviousBuildDirError�^SUninstallationError)^A�^Pcheck_path_owner)^B�^XBrokenStdoutLoggingError�
+setup_logging)^B�^Hget_prog�^Nnormalize_path)^A�^YTempDirectoryTypeRegistry)^B�^Vglobal_tempdir_manager�^Ptempdir_registry)^A�^Xrunning_under_virtualenv�^GCommandc^@^@^@^@^@^@^@^@^@^@^@^@     ^@^@^@^@^@^@^@��^@^@^@�^@�^@e^@Z^Ad^@Z^BU^@d^AZ^Ce^De^Ed^B<^@^@^@d^CZ^Fe^Ge^Ed^D<^@^@^@d^Sd^Ee^Dd^Fe^Dd^Ge^Gd^Hd        f^H�^@f^Ad
+�
+Z^Hd^Td^K�^DZ   d^Le
+d^Hd    f^Dd
+�^DZ^Kd^Le
+d^Ne^Le^D^Y^@^@^@d^He
+f^Fd^O�^DZ^Nd^Ne^Le^D^Y^@^@^@d^He^Oe
+e^Le^D^Y^@^@^@f^B^Y^@^@^@f^Dd^P�^DZ^Pd^Ne^Le^D^Y^@^@^@d^He
+f^Dd^Q�^DZ^Qd^Ne^Le^D^Y^@^@^@d^He
+f^Dd^R�^DZ^R�^@x^AZ^SS^@)^Ur"^@^@^@�^@�^EusageF�^Signore_require_venv�^Dname�^Gsummary�^Hisolated�^FreturnNc^D^@^@^@^@^@^@^@^@^@^@^@    ^@^@^@^C^@^@^@�^B^B^@^@�^A�^@t^@^@^@^@^@^@^@^@^@�^F|^@�^E^@^@�^@^@^@^@^@^@^@^A^@|^A|^@_^B^@^@^@^@^@^@^@^@|^B|^@_^C^@^@^@^@^@^@^@^@t     ^@^@^@^@^@^@^@^@|^@j
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@t
+^@^@^@^@^@^@^@^@�^@^@^@^@^@^@^@�^@d^A|^A�^@�^Ct^O^@^@^@^@^@^@^@^@�^@^@^@^@^@^@^@d^B|^A|^@j^P^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@|^C�^C�^G^@^@^@^@^@^@|^@_       ^@^@^@^@^@^@^@^@d^@|^@_
+^@^@^@^@^@^@^@^@|^@j^D^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@j^W^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@�^@^@^@^@^@^@^@�^@d^D�^B}^Dt^Y^@^@^@^@^@^@^@^@j^Z^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@|^@j^R^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@|^D�^B^@^@^@^@^@^@|^@_^N^@^@^@^@^@^@^@^@t^_^@^@^@^@^@^@^@^@j ^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@t^^^@^@^@^@^@^@^@^@j"^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@|^@j^R^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@�^B^@^@^@^@^@^@}^E|^@j^R^@^@^@^@>
+^@^@^@�^G__doc__�^Fparserr ^@^@^@�
+capitalize�^Hoptparse�^KOptionGroup�^Hcmd_optsr
+^@^@^@�^Qmake_option_group�
+general_group�^Padd_option_group�^Kadd_options)^G�^Dselfr'^@^@^@r(^@^@^@r)^@^@^@�
+optgroup_name�^Hgen_opts�       __class__s^G^@^@^@      ��O/home/neo/my_env/lib/python3.12/site-packages/pip/_internal/cli/base_command.pyr2^@^@^@z^PCommand.__init__1^@^@^@s�^@^@^@��^@�^H
+�^G�^H^X�^H^Z�^T^X�^D�  �^W^^�^D�^L�^V(�^R^V�*�*�^T^\�J�<�q�^T�^F�^Q'�^V3�^V5�^\!�^Q^U�^X^\�^L�^L�^U^]�^O^H^W
+�^D�^K�^T^@<@^A�^D�^H^]�^F^@^\ �9�9�^[/�^[/�^[1�^Z2�(�^X;�
+�^X �^X,�^X,�T�[�[�-�^XH�^D�
+�^F^@^T^^�^S/�^S/�^L^V�^L$�^L$�^L^P�K�K�^E^C^T
+�^H�^H^@        
+�^K�^K�^H$�^H$�X�^H.�^H^L�^H^X�^H^X�^H^Z�^@^@^@^@c^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^C^@^@^@�^D^@^@^@�^@y^@�^AN�^@)^Ar=^@^@^@s^A^@^@^@ rA^@^@^@r<^@^@^@z^SCommand.add_optionsO^@^@^@s^E^@^@^@�^@�^H^LrB^@^@^@�^Goptionsc^B^@^@^@^@^@^@^@^@^@^@^@^D^@^@^@^C^@^@^@� ^@^@^@�^@t^A^@^@^@^@^@^@^@^@|^Ad^A�^B^@^@^@^@^@^@r^BJ^@�^Ay^B)^Czf
+        This is a no-op so that commands by default do not do the pip version
+        check.
+        �^Hno_indexN)^A�^Ghasattr)^Br=^@^@^@rF^@^@^@s^B^@^@^@  rA^@^@^@�^Xhandle_pip_version_checkz Command.handle_pip_version_checkR^@^@^@s^W^@^@^@�^@�^N^@^T^[�7�J�^S/�^H/�^O/�^S/rB^@^@^@�^Dargsc^C^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^C^@^@^@�^N^@^@^@�^@t^@^@^@^@^@^@^@^@^@�^ArD^@^@^@)^A�^SNotImplementedError)^Cr=^@^@^@rF^@^@^@rK^@^@^@s^C^@^@^@   rA^@^@^@�^Crunz^KCommand.run[^@^@^@s^H^@^@^@�^@�^N!�^H!rB^@^@^@c^B^@^@^@^@^@^@^@^@^@^@^@^C^@^@^@^C^@^@^@�8^@^@>
+parse_args�^Br=^@^@^@rK^@^@^@s^B^@^@^@  rA^@^@^@rP^@^@^@z^RCommand.parse_args^^@^@^@s^W^@^@^@�^@�^O^S�{�{�^O%�^O%�d�^O+�^H+rB^@^@^@c^B^@^@^@^@^@^@^@^@^@^@^@^F^@^@^@^C^@^@^@��^@^@^@�^@ ^@|^@j^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@�^@^@^@^@^@^@^@5^@^A^@|^@j^C^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@|^A�^A^@^@^@^@^@^@c^Bd^@d^@d^@�^B^@^@^@^@^@^@^A^@t^E^@^@^@^@^@^@^@^@j^F^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@�^@^@^@^@^@^@^@^A^@S^@#^@1^@s^Aw^B^A^@Y^@^A^@^A^@n^Cx>
+(�^W^[�z�z�$�^W'�^C^A
+(�^@^A
+(�^F^@
+^T�^L^\�^L^\�^L^^�^G^A
+(�^@^A
+(��^@^A
+(�^F^@
+^T�^L^\�^L^\�^L^^��G�^L^\�^L^\�^L^^�s!^@^@^@�^PA#^@�^QA^A^C�    A#^@�^A^EA
+^G�^F^GA#^@�#^VA9^Cc^B^@^@^@^@^@^@^@^@^@^@^@^H^@^@^@^C^@^@^@��^E^@^@�^F�^@|^@j^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@t^C^@^@^@^@^@^@^@^@�^@^@^@^@^@^@^@�^A^@^@^@^@^@^@|^@_^A^@^@^@^@^@^@^@^@|^@j^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@t^E^@^@^@^@^@^@^@^@�^@^@^@^@^@^@^@�^A^@^@^@^@^@^@^A^@|^@j^G^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@|^A�^A^@^@^@^@^@^@\^B^@^@}^B}^A|^Bj^H^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@|^Bj
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@z
+^@^@|^@_^F^@^@^@^@^@^@^@^@t^O^@^@^@^@^@^@^@^@|^@j^L^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@|^Bj^P^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@|^Bj^R^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@�^A�^C^@^@^@^@^@^@�^Ft^U^@^@^@^@^@^@^@^@|^Bj^V^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@�^A^@^@^@^@^@^@t^U^@^@^@^@^@^@^@^@t^X^@^@^@^@^@^@^@^@j^Z^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@�^A^@^@^@^@^@^@z^A^@^@}^C|^Cr.t^\^@^@^@^@^@^@^@^@j^_^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@d^Bd^Cj!^@^@^@^@^@^>
+�^A^@^@^@^@^@^@^A^@t-^@^@^@^@^@^@^@^@j.^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@t<^@^@^@^@^@^@^@^@�^A^@^@^@^@^@^@^A^@|^Bj>^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@rVtA^@^@^@^@^@^@^@^@|^Bj>^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@�^A^@^@^@^@^@^@|^B_^_^@^@^@^@^@^@^@^@tC^@^@^@^@^@^@^@^@|^Bj>^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@�^A^@^@^@^@^@^@s't^\^@^@^@^@^@^@^@^@j^_^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@d^K|^Bj>^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@�^B^@^@^@^@^@^@^A^@d^@|>
+tF^@^@^@^@^@^@^@^@f^B^Y^@^@^@d^NtD^@^@^@^@^@^@^@^@d
+tF^@^@^@^@^@^@^@^@f^B^Y^@^@^@f^D�^Ff^Ad^O�^L}^D ^@|^BjH^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@s^S^B^@|^D|^@jJ^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@�^A^@^@^@^@^@^@}^En"|^@jJ^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@}^EtM^@^@^@^@^@^@^@^@jN^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@d^P�^Q�^A^@^@^@^@^@^@^A^@^B^@|^E|^B|^A�^B^@^@^@^@^@^@|^@jQ^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@|^B�^A^@^@^@^@^@^@^A^@S^@#^@|^@jQ^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@|^B�^A^@^@^@^@^@^@^A^@w^@x^>
+user_log_filez/The following features are always enabled: %s. z^B, �^Z_PIP_RUNNING_IN_SUBPROCESSzAThe --python option must be placed before the pip subcommand name�^A1�^LPIP_NO_INPUTr,^@^@^@�^QPIP_EXISTS_ACTIONz2Could not find an activated virtualenv (required).z�The directory '%s' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing>
+d^C�^F�^B^@^@^@^@^@^@^A^@t4^@^@^@^@^@^@^@^@c^BY^@S^@w^@x^CY^@w^A)^KNz^B%s�^DrichT)^A�^Eextraz^VException information:)^A�^Hexc_infoz ERROR: Pipe to stdout was broken)^A�^Dfilez^[Operation cancelled by userz
+Exception:)^[�
+isinstance�^Cintr^T^@^@^@�^Flogger�^Eerror�^Edebugr^N^@^@^@r^W^@^@^@�^Hcritical�^Cstrr^O^@^@^@r^U^@^@^@r^X^@^@^@r^R^@^@^@r^V^@^@^@r^S^@^@^@r^Z^@^@^@�^Eprint�^Csys�^FstderrrU^@^@^@�^EDEBUGr    ^@^@^@� print_exc�^QKeyboardInterrupt�
+BaseExceptionr^P^@^@^@)^ErK^@^@^@�^Fstatus�^Cexc�^Llevel_numberr`^@^@^@s^E^@^@^@   ��rA^@^@^@�^Sexc_logging_wrapperzLCommand._main.<locals>.intercepts_unhandled_exc.<locals>.exc_logging_wrapper�^@^@^@s�^A^@^@��^@�^D-^Q)�^]%�t�_�F�^[%�f�c�^[2�^T2�^[2�^[!�M��^W)�^@^D^Q!�^T^Z�L�L�^T�s�6�4�.�L�^TA�^T^Z�L�L�!9�D�L�^TI�^[ �L��^W,�^@^D^Q4�^T^Z�O�O�C�^C�H�^T-�^T^Z�L�L�!9�D�L�^TI�^[3�^T3��^T%�^T'�^T^^�^T*�        ^E^X^R�^@       ^Q!�^L^@^U^[�O�O�C�^C�H�^T-�>
+^C�^G^AH^W^C�
+A$H^W^C�3:H^W^C�/%H^W^C�^V^AH^W^C)^D�   functools�^Ewrapsr^D^@^@^@rh^@^@^@)^Cr`^@^@^@rx^@^@^@rw^@^@^@s^C^@^@^@` �rA^@^@^@�^Xintercepts_unhandled_excz/Command._main.<locals>.intercepts_unhandled_exc�^@^@^@s7^@^@^@��^@�^F^@^N^W�_�_�X�
+&�^B.
+)�3�^@.
+)�3�^@.
+)�^C^@^N'�^B.
+)�`^A^@^T'�^L&rB^@^@^@T)^A�^Kshow_locals))�
+enter_contextr ^@^@^@r^_^@^@^@rP^@^@^@�^Gverbose�^EquietrY^@^@^@r^[^@^@^@rZ^@^@^@�^Clog�^Cset�^Pfeatures_enabledr
+^@^@^@�^WALWAYS_ENABLED_FEATURESri^@^@^@�^Gwarning�^Djoin�^Fsorted�^Fpython�^Bos�^Genvironrl^@^@^@ro^@^@^@�^Dexitr^N^@^@^@�^Hno_input�
+exists_action�^Lrequire_venvr&^@^@^@r!^@^@^@r^Q^@^@^@�  cache_dirr^]^@^@^@r^Y^@^@^@r^E^@^@^@rh^@^@^@�
+debug_moderN^@^@^@�^Nrich_traceback�^GinstallrJ^@^@^@)^Gr=^@^@^@rK^@^@^@rF^@^@^@�^Walways_enabled_featuresr{^@^@^@rN^@^@^@rw^@^@^@s^G^@^@^@      @rA^@^@^@rT^@^@^@z
+Command._maini^@^@^@s<^B^@^@��^@�^H^@!%� 2� 2�3C�3E� F�^D�^H^]�^F^@     
+�^H^Z�^H^Z�^[1�^[3�^H4�^X^\�^O�^O�^D�^X-�
+�^G�^T�^F^@^Z!�^_�^_�7�=�=�^Y8�^D�^N�^W$�^V^Z�n�n�^U^\�^U%�^U%�^Z!�+�+�^G^D^X
+�^L�^L^@#&�g�&>�&>�"?�#�^L^V�^L.�^L.�^C^BC^A
+�^@^B#
+�^H^_�^F^@^L#�^L^R�N�N�^PA�^P^T�        �       �&�!8�^Z9�^P:�^E^C
+^N�^T^@^L^S�>�>�^^:�"�*�*�^^L�^L^R�O�O�^PS�^C^B
+^N�^F^@
+^P�H�H�U�O�^L^@^L^S�^K^[�^K^[�),�B�J�J�~�^L&�^K^R�^K �^K �.1�h�h�w�7L�7L�.M�B�J�J�^W*�^L+�^K^R�^K^_�^K^_�^D�(@�(@�^S+�^S-�^P^V�^O�^O� T�^PU�^P^S�^H�^H�^Y-�^P.�^K^R�^K^\�^K^\� .�w�/@�/@� A�G�^L^]�^S#�G�$5�$5�^S6�^P^V�^N�^N�^B^D^U*�
+^@^U^\�^T%�^T%�
+^G^Q^R�^P^@%)�^G�^P!�^D4        '�^V^^�s�C�x�^V(�^C4    '�
+^U�c�3�h�
+^_�^E4  '�l^A^H 3�^S^Z�^S%�^S%�^V.�t�x�x�^V8�^C�^V^Z�h�h�^C�^P^^�^P&�^P&�4�^P8�^S^V�w�^D�^S%�^L^P�^L)�^L)�'�^L2��D�^L)�^L)�'�^L2�s
+^@^@^@�0A       K^K^@�^K^SK^^^C)^AF)^Br*^@^@^@N)^T�^H__name__�
+__module__�^L__qualname__r%^@^@^@rm^@^@^@�^O__annotations__r&^@^@^@�^Dboolr2^@^@^@r<^@^@^@r^C^@^@^@rJ^@^@^@r^F^@^@^@rh^@^@^@rN^@^@^@r^H^@^@^@rP^@^@^@rW^@^@^@rT^@^@^@�
+__classcell__)^Ar@^@^@^@s^A^@^@^@@rA^@^@^@r"^@^@^@r"^@^@^@-^@^@^@s�^@^@^@��^@�^Q^S�E�3�O� %�^D^W�^T�^D%�^D^\^E^[�S�^@^\^E^[�3�^@^\^E^[�$�^@^\^E^[�4�^@^\^E^[�<^A^E
+�^F^G^E0�^F�^@^G^E0�4�^@^G^E0�^R^A^E"�6�^@^A^E"�^T�c�^Y�^@^A^E"�s�^@^A^E"�^F^B^E,�t�C�y�^@^B^E,�U�6�4�^C�9�3D�-E�^@^B^E,�^H^E^E^_�^T�c�^Y�^@^E^E^_�s�^@^E^E^_�^NC^B^E3�$�s�)�^@C^B^E3�^C�^@C^B^E3rB^@^@^@)9r3^@^@^@ry^@^@^@rU^@^@^@�^Nlogging.configr6^@^@^@r�^@^@^@ro^@^@^@r   ^@^@^@r^C^@^@^@�^Ftypingr^D^@^@^@r^E^@^@^@r^F^@^@^@r^G^@^@^@r^H^@^@^@�^Ppip._vendor.richr�^@^@^@�^Qpip._internal.clir
+^@^@^@�!pip._internal.cli.command_contextr^K^@^@^@�^Xpip._internal.cli.parserr^L^@^@^@r
+^@^@^@�^^pip._internal.cli.status_codesr^N^@^@^@r^O^@^@^@r^P^@^@^@r^Q^@^@^@�^Xpip._internal.exceptionsr^R^@^@^@r^S^@^@^@r^T^@^@^@r^U^@^@^@r^V^@^@^@r^W^@^@^@r^X^@^@^@�^^pip._internal.utils.filesystemr^Y^@^@^@�^[pip._internal.utils.loggingr^Z^@^@^@r^[^@^@^@�^Xpip._internal.utils.miscr^\^@^@^@r^]^@^@^@�^\pip._internal.utils.temp_dirr^^^@^@^@�^OTempDirRegistryr^_^@^@^@r ^@^@^@�^^pip._internal.utils.virtualenvr!^@^@^@�^G__all__�     getLoggerr�^@^@^@ri^>
+�^@^P�^@^[�^@7�^@7�^@8�^@(�^@A�^@V�^B^E^A^B�^@^E^A^B�^L^H^A^B�^@^H^A^B�^@^H^A^B�^R^@^A<�^@O�^@=�^@U�^@Q�^@C�^K^T�+�^G�  ^Z�^W�  ^Z�     ^Z�8�   $�^F�^F^?^B^A3�^N!�^@^?^B^A3rB^@^@^@
+
+
+
+
+
